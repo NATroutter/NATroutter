@@ -1,4 +1,4 @@
-<div style="text-align:center;margin:auto">
+<div align="center">
   
   ![](https://github-readme-stats.vercel.app/api?username=NATroutter&show_icons=true&theme=dracula)  
 
