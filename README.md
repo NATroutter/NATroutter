@@ -8,10 +8,10 @@ Hello! My name is NATroutter, a 27-year-old programmer, gamer and furry from Fin
 
 <img alt="tired" src="https://cdn3.emoji.gg/emojis/332471-sappytired.gif" align="right"/>
 
-📫 How to reach me: Check out the links below 👇<br>
-💬 Ask me about anything: [Here.](https://github.com/NATroutter/NATroutter/discussions)<br>
-🎯 Currently working on: Check my pinned repos below, star them if you like! ⭐️<br>
-🎨 Hobbies: 3D Printing, Gaming, Watching Anime, Collecting (Pokemon Cards, Manga, Blu-rays, figures, Games)<br>
+📫 **How to reach me:** *Check out the links below 👇*<br>
+💬 **Ask me about anything:** *[Here.](https://github.com/NATroutter/NATroutter/discussions)*<br>
+🎯 **Currently working on:** *Check my pinned repos below, star them if you like! ⭐️*<br>
+🎨 **Hobbies:** *3D Printing, Gaming, Watching Anime, Collecting (Pokemon Cards, Manga, Blu-rays, figures, Games)*<br>
 
 <br>
 
