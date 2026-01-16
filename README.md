@@ -13,6 +13,8 @@ Hello! My name is NATroutter, a 27-year-old programmer, gamer and furry from Fin
 🎯 Currently working on: Check my pinned repos below, star them if you like! ⭐️<br>
 🎨 Hobbies: 3D Printing, Gaming, Watching Anime, Collecting (Pokemon Cards, Manga, Blu-rays, figures, Games)<br>
 
+<br>
+
 ## 🛠️ &nbsp;My Skills
 
 I spend most of my free time coding and experimenting with different projects. I enjoy building full-stack applications, but backend development is honestly where I get most excited. I love the challenge of building complex systems that bring together multiple languages and technologies. Java is my love and passion, but I've managed to pick up various other languages and tools along the way to tackle different challenges. My high attention to detail helps me catch issues early and create backend systems that are solid and reliable, the kind that make everything run smoothly without users having to think about it.
